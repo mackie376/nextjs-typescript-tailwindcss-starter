@@ -18,7 +18,21 @@
     "url": "https://github.com/mackie376/nextjs-typescript-tailwindcss-starter/issues",
     "email": "mackie@beehive-dev.com"
   },
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^13.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18",
+    "@types/react": "^18.2.20",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.1.6"
+  }
 }
