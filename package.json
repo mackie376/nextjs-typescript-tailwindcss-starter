@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-typescript-tailwindcss-starter",
+  "description": "Next.js + TypeScript + TailwindCSS Starter Kit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mackie376/nextjs-typescript-tailwindcss-starter",
+  "author": {
+    "name": "Takashi Makimoto",
+    "email": "mackie@beehive-dev.com",
+    "url": "https://www.beehive-dev.com"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mackie376/nextjs-typescript-tailwindcss-starter"
+  },
+  "bugs": {
+    "url": "https://github.com/mackie376/nextjs-typescript-tailwindcss-starter/issues",
+    "email": "mackie@beehive-dev.com"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
